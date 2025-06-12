@@ -1,4 +1,3 @@
-# task2
-My First Internship Tasks with elevate labs 
-<br>
-Author - Pranali Pawar
+ I used a dateadet called superstore with 100 sales 
+created visuals using charts 
+Added relevent charts which helps us have a great look for our sales 
